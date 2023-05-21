@@ -12,5 +12,5 @@ class Student extends Entity
         'name' => true,
         'email' => true,
         'created_at' => true,
-    ];
+    ]; 
 }
